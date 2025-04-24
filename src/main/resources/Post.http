@@ -1,8 +1,0 @@
-### Send POST request with json body
-GET http://localhost:8080/10/m4
-Content-Type: application/json
-
-{
-  "id": 999,
-  "name": "content"
-}
